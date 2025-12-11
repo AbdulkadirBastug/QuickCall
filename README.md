@@ -22,7 +22,7 @@
 ## 📱 Installation
 
 ### From APK
-1.  Download the `app-debug.apk` or build it yourself.
+1.  Build the `app-debug.apk` yourself.
 2.  Install it on your Android device.
 3.  Follow the in-app setup guide.
 
